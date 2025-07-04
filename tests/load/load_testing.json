@@ -1,0 +1,10 @@
+{
+  "errors": [
+    "Failed to send email to jamics.mail@gmail.com: An error occurred while loading the .env file: open .env: The system cannot find the file specified."
+  ],
+  "latency_mean": "0s",
+  "requests": 1,
+  "success_rate": 0,
+  "throughput": 0,
+  "timestamp": "2025-05-06T18:45:33+02:00"
+}
